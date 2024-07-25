@@ -19,7 +19,7 @@
 
 <style scoped>
     .v-app-bar-title-link {
-    text-decoration: none;
-    color: inherit; /* Asegúrate de que el color del enlace coincida con el color del título */
+        text-decoration: none;
+        color: inherit;
     }
 </style>

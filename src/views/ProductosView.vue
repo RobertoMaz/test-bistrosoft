@@ -4,10 +4,6 @@
     </div>
 </template>
 
-<script setup>
-    
-</script>
-
 <style scoped>
     h5 {
         margin-top: 100px;

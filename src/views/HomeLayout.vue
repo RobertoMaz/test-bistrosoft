@@ -4,7 +4,6 @@
 
 <template>
   <v-app>
-
     <MainNav />
     <RouterView />
   </v-app>

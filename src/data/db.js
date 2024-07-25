@@ -40,5 +40,15 @@ export const db = [
         id: 6,
         table: 'Mesa 06',
         state: 'libre',
-    }
+    },
+    {
+        id: 7,
+        table: 'Mesa 07',
+        state: 'libre',
+    },
+    {
+        id: 8,
+        table: 'Mesa 08',
+        state: 'libre',
+    },
 ]

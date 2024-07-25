@@ -17,10 +17,10 @@ const vuetify = createVuetify({
     components,
     directives,
     icons: {
-      defaultSet: 'mdi', // Establece MDI como el conjunto de iconos por defecto
+      defaultSet: 'mdi', 
       sets: {
         mdi: {
-          component: 'v-icon', // Especifica el componente para los iconos MDI
+          component: 'v-icon', 
         }
       }
     }

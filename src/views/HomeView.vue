@@ -1,6 +1,3 @@
-<script setup>
-</script>
-
 <template>
   <v-app>    
     <main>
@@ -10,7 +7,7 @@
 </template>
 
 <style scoped>
-    h5 {
-        margin-top: 100px;
-    }
+  h5 {
+    margin-top: 100px;
+  }
 </style>
